@@ -4,7 +4,9 @@
   "description": "react js site using gatsby js to connect to a WordPress site API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gatsby": "gatsby new gatsby-site https://github.com/tomphill/gatsby-wordpress-starter",
+    "gatsby-dev": "gatsby develop"
   },
   "repository": {
     "type": "git",
