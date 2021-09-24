@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/subzero783/gatsby-js-site-one/issues"
   },
-  "homepage": "https://github.com/subzero783/gatsby-js-site-one#readme"
+  "homepage": "https://github.com/subzero783/gatsby-js-site-one#readme",
+  "dependencies": {
+    "gatsby-cli": "^3.14.0"
+  }
 }
