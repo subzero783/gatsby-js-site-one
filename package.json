@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-js-site-one",
+  "version": "1.0.0",
+  "description": "react js site using gatsby js to connect to a WordPress site API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subzero783/gatsby-js-site-one.git"
+  },
+  "author": "Gustavo Amezcua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subzero783/gatsby-js-site-one/issues"
+  },
+  "homepage": "https://github.com/subzero783/gatsby-js-site-one#readme"
+}
